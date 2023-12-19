@@ -7,6 +7,7 @@
                 "listName": "Aarti Full Songs",
                 "isDisplay": true,
                 "itemDisplay": 4,
+                "isShuffle": false,
                 "songs": [
                     {
                         "title": "Sukh Karta Dukh Harta",
@@ -78,6 +79,7 @@
                 "listName": "Trending Ringtones",
                 "isDisplay": true,
                 "itemDisplay": 4,
+                "isShuffle": true,
                 "songs": [
                     {
                         "title": "AA DEV BAPPA AALE",
@@ -201,6 +203,7 @@
                 "listName": "New Arrival Ringtones",
                 "isDisplay": true,
                 "itemDisplay": 4,
+                "isShuffle": true,
                 "songs": [
                     {
                         "title": "GANESH ANTHEM",
@@ -320,6 +323,7 @@
                 "listName": "Most Favorite Ringtones",
                 "isDisplay": true,
                 "itemDisplay": 4,
+                "isShuffle": true,
                 "songs": [
                     {
                         "title": "OM SHRIM BHRIM KLIM GANESH MANTRA",
@@ -451,6 +455,7 @@
                 "listName": "Marathi Ringtones",
                 "isDisplay": true,
                 "itemDisplay": 4,
+                "isShuffle": true,
                 "songs": [
                     {
                         "title": "CHICHHAAS KA GANESH",
@@ -514,6 +519,7 @@
                 "listName": "Random Ringtones",
                 "isDisplay": true,
                 "itemDisplay": 4,
+                "isShuffle": true,
                 "songs": [
                     {
                         "title": "VEERA VINAYAKA",
@@ -567,6 +573,7 @@
             }
         ]
     },
+    "isWallpaperShuffle": true,
     "wallpapers": [
         {
             "link": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/0384e3992cca30a02b667af82e823c94.jpg"
